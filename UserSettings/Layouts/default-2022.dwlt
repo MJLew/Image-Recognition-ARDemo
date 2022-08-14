@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -470,7 +470,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Michael\Dev Projects\Unity\AR Demo 2
+  m_LastProjectPath: C:\Users\Michael\Projects\Unity\AR Demo 2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -532,7 +532,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -637,7 +637,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 90620000
       m_LastClickedID: 25232
-      m_ExpandedIDs: 2afbffff
+      m_ExpandedIDs: 2afbffff90620000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
